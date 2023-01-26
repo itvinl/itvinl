@@ -7,7 +7,7 @@
 <div align="center">  
   <img width="43.5%" height="195px" src="https://github-readme-stats.vercel.app/api?username=itvinl&show_icons=true&count_private=true&hide_border=false&title_color=fff&icon_color=fff&text_color=e9e9e9&bg_color=00000000" alt="Vinícius Santos a github stats"/> 
   
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itvinl&layout=compact&hide_border=false&title_color=000&text_color=000&bg_color=none"/>
+  <img width="43.5%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itvinl&langs_count=8&hide_border=false&title_color=fff&text_color=fff&bg_color=00000000"/>
 </div>
 
 
