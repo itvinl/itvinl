@@ -10,9 +10,6 @@
   <img width="27%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itvinl&langs_count=8&hide_border=false&title_color=fff&text_color=fff&bg_color=00000000"/>
 </div><br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=itvinl&bg_color=0d1117&color=fff&line=fff&point=ffffff91&area=true&area_color=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="itvinl-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="itvinl-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
