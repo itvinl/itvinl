@@ -36,7 +36,7 @@
 </div><br/>
 
 <div align="right"><br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=itvinl.visitor-badge&left_color=%23232938&right_color=%23232938&left_text=Visitors&format=true" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=itvinl.visitor-badge&left_color=%23191e28&right_color=%23191e28&left_text=Visitors&format=true" alt="visitor badge"/>
 </div>
 
 
