@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+My+name+is+Vinícius+Santos.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c4c4c4&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+My+name+is+Vinícius+Santos.)](https://git.io/typing-svg)
 
 <div align="center"><br/>
   <span><b>🔥 Activity On GitHub 🔥</b></span><br/><br/>
@@ -11,9 +11,9 @@
 
 <div align="center"><br/>
   <span><b>💻 GitHub Stats 💻</b></span><br/><br/>
-  <img width="44%" height="190px" src="https://github-readme-stats.vercel.app/api?username=itvinl&show_icons=true&count_private=true&hide_border=false&title_color=fff&icon_color=fff&rank_icon=github&text_color=e9e9e9&bg_color=00000000" alt="Vinícius Santos a github stats"/> 
+  <img width="44%" height="190px" src="https://github-readme-stats.vercel.app/api?username=itvinl&show_icons=true&count_private=true&hide_border=false&title_color=fff&icon_color=fff&rank_icon=github&text_color=e9e9e9&bg_color=000000" alt="Vinícius Santos a github stats"/> 
   
-  <img width="27%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itvinl&langs_count=8&hide_border=false&title_color=fff&text_color=fff&bg_color=00000000"/>
+  <img width="27%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itvinl&langs_count=8&hide_border=false&title_color=fff&text_color=fff&bg_color=000000"/>
 </div>
 
 ##
@@ -38,5 +38,3 @@
 <div align="right"><br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=itvinl.visitor-badge&left_color=%23191e28&right_color=%23191e28&left_text=Visitors&format=true" alt="visitor badge"/>
 </div>
-
-
