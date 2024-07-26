@@ -32,7 +32,7 @@
   <a href = "mailto:vinysantos190@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/itvinl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.figma.com/@itvinl"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-232938?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
+  <a href="https://www.figma.com/design/qRX9hKtkYZ5hDHJbPIxC9X/Personal-Portfolio---Vin%C3%ADcius-Santos?m=auto&t=3Lm4tPn7xxep1YLv-1"><img src="https://img.shields.io/badge/Portfolio-232938?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
 </div><br/>
 
 <div align="right"><br/>
