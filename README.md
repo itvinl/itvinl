@@ -3,7 +3,7 @@
 <div align="center"><br/>
   <span><b>🔥 Activity On GitHub 🔥</b></span><br/><br/>
   <a href="https://github.com/itvinl">      
-    <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itvinl&theme=dark&hide_border=true&stroke=fff"/>
+    <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=itvinl&theme=dark&hide_border=true&card_width=440&ring=FFF5F5&border=FFF5F5&currStreakNum=FFF5F5&fire=FFF5F5&sideLabels=FFF5F5&currStreakLabel=FFF5F5&background=0D1117&stroke=FFF5F5" alt="GitHub Streak"/>
   </a> 
 </div>
 
@@ -11,9 +11,9 @@
 
 <div align="center"><br/>
   <span><b>👨🏻‍💻 GitHub Stats 👨🏻‍💻</b></span><br/><br/>
-  <img width="44%" height="190px" src="https://github-readme-stats.vercel.app/api?username=itvinl&show_icons=true&count_private=true&hide_border=false&title_color=fff&icon_color=fff&rank_icon=github&text_color=e9e9e9&bg_color=000000" alt="Vinícius Santos a github stats"/> 
+  <img width="44%" height="190px" src="https://github-readme-stats.vercel.app/api?username=itvinl&show_icons=true&count_private=true&hide_border=false&title_color=fff&icon_color=fff&rank_icon=github&text_color=e9e9e9&bg_color=0D1117" alt="Vinícius Santos a github stats"/> 
   
-  <img width="27%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itvinl&langs_count=8&hide_border=false&title_color=fff&text_color=fff&bg_color=000000"/>
+  <img width="27%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itvinl&langs_count=8&hide_border=false&title_color=fff&text_color=fff&bg_color=0D1117"/>
 </div>
 
 ##
