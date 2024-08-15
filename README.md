@@ -29,10 +29,10 @@
  
 <div align="center"><br/>
   <span><b>✨ Learn More ✨</b></span><br/><br/>
-  <a href = "mailto:vinysantos190@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vinysantos190@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/itvinl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.figma.com/@itvinl"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-  <a href="https://bit.ly/MyPersonalPortfolio_"><img src="https://img.shields.io/badge/Portfolio-232938?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
+  <a href="https://www.figma.com/@itvinl" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+  <a href="https://bit.ly/MyPersonalPortfolio_" target="_blank"><img src="https://img.shields.io/badge/Portfolio-232938?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
 </div><br/>
 
 <div align="right"><br/>
