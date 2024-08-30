@@ -33,7 +33,11 @@
   <a href="https://www.linkedin.com/in/itvinl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.figma.com/@itvinl" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
   <a href="https://bit.ly/MyPersonalPortfolio_" target="_blank"><img src="https://img.shields.io/badge/Portfolio-232938?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
-</div><br/>
+</div><br/><br/><br/>
+
+<div align="center">
+  <a href="https://bit.ly/MyPersonalPortfolio_"><img src="https://github.com/user-attachments/assets/450b364c-0e03-4d59-a3f3-749728ed7a6e" width="170px"></a>
+</div>
 
 <div align="right"><br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=itvinl.visitor-badge&left_color=%23191e28&right_color=%23191e28&left_text=Visitors&format=true" alt="visitor badge"/>
