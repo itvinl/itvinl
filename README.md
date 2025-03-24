@@ -19,9 +19,9 @@
 ##
 
 <div style="display: inline_block" align="center"><br/>
-  <span><b>⚒️ Languages & Frameworks ⚒️</b></span></br></br>
+  <span><b>⚒️ Languages, Frameworks & Tools ⚒️</b></span></br></br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,bootstrap,jquery,react,vite,tailwind,django&perline=6"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,jquery,django,python,nodejs,react,vite,tailwind,php,mysql,github&perline=6"/>
   </a>
 </div>
 
