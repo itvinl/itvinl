@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c4c4c4&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+My+name+is+Vinícius+Santos.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EDEDED&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+My+name+is+Vinícius+Santos.)](https://git.io/typing-svg)
 
 <div align="center"><br/>
   <span><b>🔥 Activity On GitHub 🔥</b></span><br/><br/>
