@@ -21,7 +21,7 @@
 <div style="display: inline_block" align="center"><br/>
   <span><b>⚒️ Languages, Frameworks & Tools ⚒️</b></span></br></br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,jquery,django,python,nodejs,react,vite,tailwind,php,mysql,github&perline=6"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,jquery,django,python,nodejs,react,vite,tailwind,php,mysql,git,github,wordpress,ps,figma&perline=6"/>
   </a>
 </div>
 
@@ -32,11 +32,11 @@
   <a href = "mailto:vinysantos190@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/itvinl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.figma.com/@itvinl" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-  <a href="viniciusprogrammer.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-232938?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
+  <a href="https://viniciusprogrammer.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-232938?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
 </div><br/><br/><br/>
 
 <div align="center">
-  <a href="viniciusprogrammer.dev" target="_blank"><img src="https://github.com/user-attachments/assets/450b364c-0e03-4d59-a3f3-749728ed7a6e" width="170px"></a>
+  <a href="https://viniciusprogrammer.dev" target="_blank"><img src="https://github.com/user-attachments/assets/450b364c-0e03-4d59-a3f3-749728ed7a6e" width="170px"></a>
 </div><br/>
 
 <div align="right"><br/>
