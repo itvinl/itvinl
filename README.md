@@ -36,7 +36,7 @@
 </div><br/><br/><br/>
 
 <div align="center">
-  <a href="https://itvinl.github.io/personal-portfolio/" target="_blank"><img src="https://github.com/user-attachments/assets/450b364c-0e03-4d59-a3f3-749728ed7a6e" width="170px"></a>
+  <a href="viniciusprogrammer.dev" target="_blank"><img src="https://github.com/user-attachments/assets/450b364c-0e03-4d59-a3f3-749728ed7a6e" width="170px"></a>
 </div><br/>
 
 <div align="right"><br/>
